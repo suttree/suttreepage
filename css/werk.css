@@ -1,0 +1,15 @@
+body                       { background-color: #efefef; margin: 0px; width: 600px }
+a.title-left               { color: #000000; }
+a.title-right              { color: #ffffff; }
+input.field                { padding: 2px; width: 142px; margin: 0px; font-size: 10px; font-family: Verdana, Arial, san serif; border: 1px black solid; }
+input.button               { background-color: #000000; padding: 0px; font-size: 10px; font-family: Verdana, Arial, san serif; color: #ffffff; font-weight: bold; }
+.bkmrk                     { background-color:#ffffff; font-family: Verdana, Arial, sans-serif; color: #000000; border:2px solid #efefef; text-align: right; font-size: small; }
+.bkmrk-left                { margin-left: 10px; float: left; }
+.bkmrk-right               { margin-right: 10px; }
+.gutter                    { background-color:#ffffff; text-align: center; font-family: Verdana, Arial, sans-serif; color: #efefef; border:2px solid #ffffff; font-size: small; font-weight: bold; }
+.mainbody                  { margin: 0px; font-family: Verdana, Arial, sans-serif; text-align: left; margin: 1em; font-size: small; }
+.post-body                 { background-color:#ffffff; font-family: Verdana, Arial, sans-serif; color: #000000; border:2px solid #efefef; font-size: small; }
+.post                      { margin-left: 10px; margin-right: 10px; text-align: left; }
+.title                     { background-color:#ffffff; text-align:right; margin-bottom: 1em; padding:2px 0 1px 0; }
+.title-left                { margin-left: 10px; background-color:#ffffff; font-family: Verdana, Arial, sans-serif; color: #000000; }
+.title-right               { margin-left: 10px; background-color:#000000; font-family: Verdana, Arial, sans-serif; color: #ffffff; border:2px solid #000000; }

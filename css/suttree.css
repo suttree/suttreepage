@@ -1,0 +1,26 @@
+body {
+       	background:	#fff;
+       	color:		#000;
+	font-size:	12px;
+	font-family:	Gill Sans, Verdana, Helvetica, Arial, Sans-serif;
+	margin:		0px;
+	padding:	0px;
+	width:		600px;
+}
+
+div.nav  {
+	text-align:	right;
+}
+
+div.nav a{
+	color:		blue;
+}
+
+div.body {
+	border-left:	10px solid #fff;
+	font-size:	12px;
+	line-height:	20px;
+	margin:		2px;
+	text-align:	left;
+	width:		595px;
+}
